@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Boas vindas ao meu site
+title: Boas vindas!
 ---
-<author_id>:
-  name: <full name>
+author: Thiago 
 
+<h1>Seja bem-vindo(a)</h1>
 
-# Boas vindas ao meu site!
+<p>Aqui pretendo escrever sobre coisas que tenho interesse, bem como as coisas que aprendo na faculdade mais como uma forma de consolidar meu apredizado</p>

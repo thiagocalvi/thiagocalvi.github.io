@@ -20,7 +20,7 @@ timezone: BRT (UTC-3)
 
 title: Thiago # the main title
 
-tagline: Computer Science Student <br> Verba volant, scripta manent # it will display as the sub-title
+tagline: Computer Science Student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
