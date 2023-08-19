@@ -11,5 +11,5 @@ author: Thiago
 
 ## Teste KaTex
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+$$ f(x) = 3 $$
 
