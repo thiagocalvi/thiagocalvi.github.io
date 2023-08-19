@@ -8,4 +8,6 @@ author: Thiago
 <p>Aqui pretendo escrever sobre coisas que tenho interesse, bem como as coisas que aprendo na faculdade mais como uma forma de consolidar meu apredizado</p>
 
 ## Teste LaTex
+
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
