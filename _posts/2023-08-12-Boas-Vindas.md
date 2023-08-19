@@ -8,4 +8,4 @@ author: Thiago
 <p>Aqui pretendo escrever sobre coisas que tenho interesse, bem como as coisas que aprendo na faculdade mais como uma forma de consolidar meu apredizado</p>
 
 ## Math test
-\\[ \frac{1}{n^{2}} \\]
+<div>\\[ \frac{1}{n^{2}} \\]</div>
