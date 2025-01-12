@@ -4,6 +4,12 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.1"
 gem "csv"
+gem "base64"
+gem "logger"
+gem "rexml"
+gem "webrick"
+gem "safe_yaml", "~> 1.0.5" # Se já estiver presente, atualize para uma versão mais recente, se disponível
+
 
 group :test do
   gem "html-proofer", "~> 3.18"
